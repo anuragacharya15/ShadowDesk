@@ -22,3 +22,6 @@ desktop.ini
 # Temporary data files (keep actual data directory and tickets.csv)
 data/test_*.csv
 data/*.tmp
+
+# Generator scripts (local only)
+scripts/
