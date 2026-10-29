@@ -1,0 +1,24 @@
+# Byte-compiled / Object files
+bin/
+target/
+*.class
+
+# Log files
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Temporary data files (keep actual data directory and tickets.csv)
+data/test_*.csv
+data/*.tmp
