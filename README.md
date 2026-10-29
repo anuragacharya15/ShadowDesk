@@ -1,4 +1,4 @@
-# Shadowfax Internal Helpdesk & Support Ticket Management System
+# ShadowDesk Internal Helpdesk & Support Ticket Management System
 
 A robust, console-based internal support ticket management system engineered in Core Java (Java 8+ compatible) designed for Shadowfax's operational, technical, and logistics helpdesk teams.
 
