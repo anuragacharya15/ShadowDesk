@@ -41,7 +41,7 @@ public class TicketWebServer {
         try {
             webServer.start();
             System.out.println("============================================================");
-            System.out.println("  SHADOWFAX HELPDESK - WEB DASHBOARD SERVER RUNNING");
+            System.out.println("  SHADOWDESK - WEB DASHBOARD SERVER RUNNING");
             System.out.println("  Access URL: http://localhost:" + port);
             System.out.println("  Press Ctrl+C in this console to stop the server.");
             System.out.println("============================================================");
@@ -339,7 +339,7 @@ public class TicketWebServer {
                 "<head>\n" +
                 "  <meta charset=\"UTF-8\">\n" +
                 "  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n" +
-                "  <title>Shadowfax Helpdesk & Ticket Management</title>\n" +
+                "  <title>ShadowDesk – Internal Helpdesk & Ticket Management</title>\n" +
                 "  <style>\n" +
                 "    :root {\n" +
                 "      --sf-orange: #FF5A00;\n" +
@@ -461,9 +461,9 @@ public class TicketWebServer {
                 "  <!-- Header -->\n" +
                 "  <header>\n" +
                 "    <div class=\"logo-group\">\n" +
-                "      <div class=\"logo-badge\">SF</div>\n" +
+                "      <div class=\"logo-badge\">SD</div>\n" +
                 "      <div>\n" +
-                "        <span class=\"logo-title\">SHADOWFAX</span>\n" +
+                "        <span class=\"logo-title\">SHADOWDESK</span>\n" +
                 "        <span class=\"logo-sub\">| Internal Helpdesk System</span>\n" +
                 "      </div>\n" +
                 "    </div>\n" +

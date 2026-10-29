@@ -1,4 +1,4 @@
 ticketId,title,description,category,priority,status,createdBy,assignedTo,resolutionNotes,createdAt,updatedAt
-SF-1001,Rider GPS Tracking Issue,Rider phone location is drifting in Koramangala hub,DELIVERY_OPERATIONS,HIGH,CLOSED,Sanjay Kumar (Hub Manager),Rahul Sharma,Re-calibrated GPS geofencing radius in Koramangala hub dispatch server. Issue resolved.,2026-10-29T18:59:07.7387154,2026-10-29T18:59:36.2889801
-SF-1002,Payout Settlement Delay,Fleet partner payout missing for cycle 42,TECHNICAL,MEDIUM,OPEN,Accounts Team,Priya Patel,,2026-10-29T18:59:36.2848413,2026-10-29T18:59:36.2848413
+SF-1001,Rider GPS Tracking Issue,Rider phone location is drifting in Koramangala hub,DELIVERY_OPERATIONS,HIGH,IN_PROGRESS,Sanjay Kumar (Hub Manager),Rahul Sharma,[Previous Resolution: Re-calibrated GPS geofencing radius in Koramangala hub dispatch server. Issue resolved.] [Reopen Reason: User requested further review],2026-10-29T18:59:07.7387154,2026-10-29T21:09:29.3219718
+SF-1002,Payout Settlement Delay,Fleet partner payout missing for cycle 42,TECHNICAL,MEDIUM,RESOLVED,Accounts Team,Priya Patel,your problem has been solved,2026-10-29T18:59:36.2848413,2026-10-29T21:09:57.7657521
 SF-1003,Hub Scanner WiFi Disconnect,Scanner disconnects from 5GHz SSID every 10 minutes,HARDWARE,CRITICAL,OPEN,Rajesh Hub Lead,Arun Kumar,,2026-10-29T20:01:54.151308,2026-10-29T20:01:54.151308

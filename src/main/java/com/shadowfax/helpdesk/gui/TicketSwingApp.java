@@ -67,7 +67,7 @@ public class TicketSwingApp extends JFrame {
     }
 
     private void initUI() {
-        setTitle("Shadowfax Internal Helpdesk & Ticket Management System");
+        setTitle("ShadowDesk – Internal Helpdesk & Ticket Management System");
         setSize(1200, 750);
         setMinimumSize(new Dimension(950, 600));
         setLocationRelativeTo(null);
@@ -82,14 +82,14 @@ public class TicketSwingApp extends JFrame {
         JPanel brandPanel = new JPanel(new FlowLayout(FlowLayout.LEFT, 10, 0));
         brandPanel.setOpaque(false);
 
-        JLabel logoBadge = new JLabel(" SF ");
+        JLabel logoBadge = new JLabel(" SD ");
         logoBadge.setOpaque(true);
         logoBadge.setBackground(SF_ORANGE);
         logoBadge.setForeground(Color.WHITE);
         logoBadge.setFont(new Font("SansSerif", Font.BOLD, 16));
         logoBadge.setBorder(BorderFactory.createEmptyBorder(4, 8, 4, 8));
 
-        JLabel titleLabel = new JLabel("SHADOWFAX HELPDESK SYSTEM");
+        JLabel titleLabel = new JLabel("SHADOWDESK SYSTEM");
         titleLabel.setForeground(Color.WHITE);
         titleLabel.setFont(new Font("SansSerif", Font.BOLD, 17));
 

@@ -54,7 +54,7 @@ public class Main {
         boolean running = true;
         System.out.println();
         System.out.println("=================================================");
-        System.out.println(" Welcome to Shadowfax Internal Helpdesk System  ");
+        System.out.println("  Welcome to ShadowDesk Internal Helpdesk System ");
         System.out.println("=================================================");
 
         while (running) {
@@ -115,7 +115,7 @@ public class Main {
 
     private void displayMainMenu() {
         System.out.println("=============================================");
-        System.out.println("    SHADOWFAX INTERNAL HELPDESK SYSTEM       ");
+        System.out.println("     SHADOWDESK INTERNAL HELPDESK SYSTEM     ");
         System.out.println("=============================================");
         System.out.println(" 1. Create New Ticket");
         System.out.println(" 2. View All Tickets");
@@ -422,7 +422,7 @@ public class Main {
     private void handleExit() {
         System.out.println("Saving ticket data before exit...");
         ticketService.saveData();
-        System.out.println("Thank you for using Shadowfax Helpdesk System. Goodbye!");
+        System.out.println("Thank you for using ShadowDesk Helpdesk System. Goodbye!");
     }
 
     // UI Helper: Table view
